@@ -1,3 +1,3 @@
-# BBOX-GETTER
+# BbOX-Tool-Software
 
-*A small application to get the boundingbox data.*
+A small application to get the boundingbox data. (Research Usage)
